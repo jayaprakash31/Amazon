@@ -100,5 +100,10 @@ if(isDisplayed(element)&&isEnabled(element)) {
 	element.click();
 
 	}
+	
+	public void jp() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
