@@ -19,9 +19,14 @@ public class CreditPogo extends LibGlobal{
 	private WebElement ccexpyear;
 	@FindBy(id = "cc_cvv")
 	private WebElement cccvv;
+	
+	private WebElement gfjj;
+	
 	public WebElement getTxtccnum() {
 		return txtccnum;
 	}
+	
+	
 	public WebElement getTxtcctype() {
 		return txtcctype;
 	}

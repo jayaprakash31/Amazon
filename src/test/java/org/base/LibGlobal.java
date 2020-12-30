@@ -101,9 +101,11 @@ if(isDisplayed(element)&&isEnabled(element)) {
 
 	}
 	
-	public void jp() {
+	private void jayapra() {
 		// TODO Auto-generated method stub
 
 	}
+	
+	
 
 }
